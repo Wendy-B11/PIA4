@@ -32,7 +32,7 @@ $registro = $sentencia->fetchAll(PDO::FETCH_OBJ);
       <th><h1>USUARIO</h1></th>
       <th><h1>E_MAIL</h1></th>
       <th><h1>EDAD</h1></th>
-      <th><h1>CONTRASEÑA</h1></th>
+
       <th><h1>PERFIL</h1><th>
       <th><h1><a href="crearusu.php">CREAR USUARIO</a></h1><th>
       
@@ -49,7 +49,7 @@ $registro = $sentencia->fetchAll(PDO::FETCH_OBJ);
         <td><?php echo $regi->usuario ?></td>
         <td><?php echo $regi->e_mail ?></td>
         <td><?php echo $regi->edad?></td>
-        <td><?php echo $regi->contrasena ?></td>
+
         <td><?php echo $regi->perfil ?></td>
         <td><a href="edicionusuario.php?id=<?php echo $regi->id_usuario?>">Editar</a></td>
         <td><a href="borrarusu.php?id=<?php echo $regi->id_usuario?>" >Eliminar</a></td>

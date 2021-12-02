@@ -26,7 +26,7 @@ include_once "php/menu.php";
       
       <form method="post" class="is-vertically-scrollable" action="php/resultado.php" >
           <p id=p1>¿Se escribe baca o vaca?</p>
-          <label><input id="1" type="radio" name="p1" value="1" required/>vaca<br></label>
+          <label><input id="1" type="radio" name="p1" value="1" required/>Vaca<br></label>
           <label><input id="1" type="radio" name="p1" value="0" required />Baca<br></label><br>
                  <p id=p2>¿Cuál es la palabra incorrecta?</p>
           <label><input id="2" type="radio" name="p2" value="0" required/>Bisturí<br></label>

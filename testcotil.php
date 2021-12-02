@@ -39,29 +39,29 @@ include_once "php/menu.php";
 </p>
           <label><input id="3" type="radio" name="p3" value="0" required/>Tábano<br></label>
           <label><input id="3" type="radio" name="p3" value="1" required/>Comer<br></label>
-          <label><input id="3" type="radio" name="p3" value="0" required/>- Ágil
+          <label><input id="3" type="radio" name="p3" value="0" required/>Ágil
 <br></label>
           <label><input id="3" type="radio" name="p3" value="0" required/>Permitido<br></label><br>
 
 
 <p id=p4>Solo una de las siguientes palabras está incorrectamente separada.</p>
-          <label><input id="4" type="radio" name="p4" value="0" required/>ci-mien-tos<br></label>
-          <label><input id="4" type="radio" name="p4" value="0" required/>co-e-tá-ne-o<br></label>          <label><input id="4" type="radio" name="p4" value="0" required/>es-pio-na-je<br></label>
-          <label><input id="4" type="radio" name="p4" value="1" required/>se-le-ccio-na-do<br></label><br>
+          <label><input id="4" type="radio" name="p4" value="0" required/>Ci-mien-tos<br></label>
+          <label><input id="4" type="radio" name="p4" value="0" required/>Co-e-tá-ne-o<br></label>          <label><input id="4" type="radio" name="p4" value="0" required/>Es-pio-na-je<br></label>
+          <label><input id="4" type="radio" name="p4" value="1" required/>Se-le-ccio-na-do<br></label><br>
 
           <p id=p5>Una de las siguientes palabras es grave, cuál:</p>
-          <label><input id="5" type="radio" name="p5" value="0" required/>convenir<br></label>
-          <label><input id="5" type="radio" name="p5" value="0" required/>pragmático<br></label>
-          <label><input id="5" type="radio" name="p5" value="0" required/>también<br></label>
-          <label><input id="5" type="radio" name="p5" value="1" required/>navegando<br></label><br>
+          <label><input id="5" type="radio" name="p5" value="0" required/>Convenir<br></label>
+          <label><input id="5" type="radio" name="p5" value="0" required/>Pragmático<br></label>
+          <label><input id="5" type="radio" name="p5" value="0" required/>También<br></label>
+          <label><input id="5" type="radio" name="p5" value="1" required/>Navegando<br></label><br>
           
           <p id=p6>¿Cuál de las siguientes palabras es esdrújula?
 </p>
  
-          <label><input id="6" type="radio" name="p6" value="1" required/>periódico<br></label>
-          <label><input id="6" type="radio" name="p6" value="0" required/>publicación<br></label>
-          <label><input id="6" type="radio" name="p6" value="0" required/>actividad<br></label>
-          <label><input id="6" type="radio" name="p6" value="0" required/>ayer<br></label><br>
+          <label><input id="6" type="radio" name="p6" value="1" required/>Periódico<br></label>
+          <label><input id="6" type="radio" name="p6" value="0" required/>Publicación<br></label>
+          <label><input id="6" type="radio" name="p6" value="0" required/>Actividad<br></label>
+          <label><input id="6" type="radio" name="p6" value="0" required/>Ayer<br></label><br>
          
           <p id=p7>Las palabras __________ son las que llevan la fuerza de voz en la penúltima sílaba.
 - </p>
@@ -80,22 +80,22 @@ include_once "php/menu.php";
           <p id=p9>Solo una de las palabras está correctamente separada, cuál es.
 </p>
  
-          <label><input id="9" type="radio" name="p9" value="1" required/>tri-án-gu-lo
+          <label><input id="9" type="radio" name="p9" value="1" required/>Tri-án-gu-lo
 <br></label>
-          <label><input id="9" type="radio" name="p9" value="0" required/>ca-í-da
+          <label><input id="9" type="radio" name="p9" value="0" required/>Ca-í-da
 <br></label>
-          <label><input id="9" type="radio" name="p9" value="0" required/>poe-ta
+          <label><input id="9" type="radio" name="p9" value="0" required/>Poe-ta
 <br></label>
-<label><input id="9" type="radio" name="p9" value="0" required/>via-ja-ría-mos
+<label><input id="9" type="radio" name="p9" value="0" required/>Via-ja-ría-mos
 <br></label><br>
 
           <p id=p10>Una de las palabras de la siguiente oración incluye un error de acentuación, ¿cuál?
 </p>
           
-         <label> <input id="10" type="radio" name="p10" value="0" required/>precisión<br></label>
-          <label><input id="10" type="radio" name="p10" value="0" required/>cráter<br></label>
-          <label><input id="10" type="radio" name="p10" value="0" required/>envió<br></label>
-          <label><input id="10" type="radio" name="p10" value="1" required/>agilmente<br></label><br>  <input type="submit"  style="margin-bottom:90px; " class="enviar" name="ratata" value="Enviar">     
+         <label> <input id="10" type="radio" name="p10" value="0" required/>Precisión<br></label>
+          <label><input id="10" type="radio" name="p10" value="0" required/>Cráter<br></label>
+          <label><input id="10" type="radio" name="p10" value="0" required/>Envió<br></label>
+          <label><input id="10" type="radio" name="p10" value="1" required/>Agilmente<br></label><br>  <input type="submit"  style="margin-bottom:90px; " class="enviar" name="ratata" value="Enviar">     
       </form>
     </div>
    

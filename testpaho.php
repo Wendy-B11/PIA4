@@ -46,7 +46,7 @@ Hierva<br></label><br>
           <p id=p5>Señala la palabra correcta: Nuestro parque tiene _________ artificial.</p>
  
           <label><input id="5" type="radio" name="p5" value="1" required/> Hierba<br></label>
-          <label><input id="5" type="radio" name="p5" value="0" required/> Hierva<br></label>
+          <label><input id="5" type="radio" name="p5" value="0" required/> Hierva<br></label><br>
          
           <p id=p6>Señala la palabra correcta: Mi papá ____________ que comprar un móvil nuevo.</p>
  
